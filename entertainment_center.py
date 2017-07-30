@@ -58,6 +58,7 @@ interstellar = Movie("Interstellar",
 
 
 # Create Movie array for open_movies_page f(x) #
-movies = [matrix, pulp_fiction, fight_club, inception, dark_knight, interstellar]
+movies = [matrix, pulp_fiction, fight_club, inception, 
+          dark_knight, interstellar]
 # Call open_movies_page f(x) and pass movies array #
 fresh_tomatoes.open_movies_page(movies)
